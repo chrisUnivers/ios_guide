@@ -14,8 +14,8 @@ https://developer.apple.com/tutorials/sample-apps/organizingwithgrids
 **Please read before watching video below**
 
 # Up And Down shortcuts: 
-***How to setup up and down movement:***<br>
-Inside with any file open press: 
+***The following steps will help you set up keyboard shortcuts for going up and down a file :***<br>
+Inside vscode with any file open press: 
     ***ctrl+shift+p***<br>
 Inside the "search bar" that opens type:<br>
     ***keyboard shortcuts json***<br>
