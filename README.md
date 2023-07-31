@@ -24,9 +24,9 @@ Click on that option which will open a file called ***keybindings.json***. Copy 
 Line x, in this case line 21
 # Keyboard shortcuts:
 
-`Exit:` ***Esc***
-`Change current file:` ***ctrl+p***
-`UP:` ***ctrl+shift+9***
-`Down:` ***ctrl+9***
-`To Close:` ***ctrl+shift+[*** and 
-`To Open:` ***ctrl+shift+]***
+`Exit:` ***Esc***<br>
+`Change current file:` ***ctrl+p***<br>
+`UP:` ***ctrl+shift+9***<br>
+`Down:` ***ctrl+9***<br>
+`To Close:` ***ctrl+shift+[*** and <br>
+`To Open:` ***ctrl+shift+]***<br>
