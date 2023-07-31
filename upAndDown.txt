@@ -1,0 +1,68 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+8",
+        "when": "editorTextFocus",
+        "command": "cursorMove",
+        "args": {
+            "by": "line",
+            "to": "down",
+            "value": 1
+        }
+    },
+
+    {
+        "key": "ctrl+9",
+        "when": "editorTextFocus",
+        "command": "cursorMove",
+        "args": {
+            "by": "line",
+            "to": "down",
+            "value": 4
+        }
+    },
+
+    {
+        "key": "ctrl+6",
+        "when": "editorTextFocus",
+        "command": "cursorMove",
+        "args": {
+            "by": "line",
+            "to": "down",
+            "value": 3
+        }
+    },
+
+    {
+        "key": "ctrl+shift+8",
+        "when": "editorTextFocus",
+        "command": "cursorMove",
+        "args": {
+            "by": "line",
+            "to": "up",
+            "value": 1
+        }
+    },
+
+    {
+        "key": "ctrl+shift+9",
+        "when": "editorTextFocus",
+        "command": "cursorMove",
+        "args": {
+            "by": "line",
+            "to": "up",
+            "value": 4
+        }
+    },
+
+    {
+        "key": "ctrl+shift+6",
+        "when": "editorTextFocus",
+        "command": "cursorMove",
+        "args": {
+            "by": "line",
+            "to": "up",
+            "value": 3
+        }
+    }
+]
