@@ -28,5 +28,5 @@ Line x, in this case line 21
 `Change current file:` ***ctrl+p***<br>
 `UP:` ***ctrl+shift+9***<br>
 `Down:` ***ctrl+9***<br>
-`To Close:` ***ctrl+shift+[*** and <br>
+`To Close:` ***ctrl+shift+[*** <br>
 `To Open:` ***ctrl+shift+]***<br>
