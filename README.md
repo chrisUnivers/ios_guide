@@ -29,9 +29,5 @@ Line x, in this case line 21
 `Change current file:` ***ctrl+p***<br>
 `UP:` ***ctrl+shift+9***<br>
 `Down:` ***ctrl+9***<br>
-`One word:` ***ctrl+arrow***<br>*left or right arrow*
-`End of line:` ***fn+arrow***<br>*left or right arrow*
-`To Select word(s):` ***shift+x*** Where x = [`End of line:`,`One word:`,up arrow,down arrow]
-  **NOTE** ***Do not*** use the *UP: or DOWN:* shortcuts to with *shift* when selecting upwards or downwards. ***Always** use ***up down arrows*** with *shift* to select vertically.
 `To Close:` ***ctrl+shift+[*** <br>
 `To Open:` ***ctrl+shift+]***<br>
