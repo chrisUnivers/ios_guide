@@ -2,6 +2,12 @@ import SwiftUI
 
 struct ContentView: View {
 
+one hundered
+twelve
+seven
+eight
+ten eight seven twelve five foregroundColor
+twelve
 
 
 /*ColumnLayout*/
