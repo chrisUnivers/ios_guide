@@ -31,6 +31,6 @@ Line x, in this case line 21
 `Down:` ***ctrl+9***<br>
 `One word:` ***ctrl+arrow*** *left or right arrow*<br>
 `End of line:` ***fn+arrow*** *left or right arrow*<br>
-`To Select word(s):` ***shift+x*** Where x = [`End of line:`,`One word:`,up arrow,down arrow]<br>**NOTE** ***Do not*** use the *UP: or DOWN:* shortcuts to with *shift* when selecting upwards or downwards. ***Always** use ***up down arrows*** with *shift* to select vertically.
+`To Select word(s):` ***shift+x*** Where x = [`End of line:`,`One word:`,up arrow,down arrow]<br>**NOTE:** ***Do not*** use the *UP: or DOWN:* shortcuts to with *shift* when selecting upwards or downwards. ***Always** use ***up down arrows*** with *shift* to select vertically.
 `To Close:` ***ctrl+shift+[*** <br>
 `To Open:` ***ctrl+shift+]***<br>
