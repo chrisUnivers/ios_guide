@@ -22,7 +22,7 @@ Inside the "search bar" that opens type:<br>
     ***keyboard shortcuts json***<br>
 Press *Enter* or click on that option. This will open a file called ***keybindings.json***. Copy the content of the file ***upAndDown.txt***,found in this repository, paste in ***keybindings.json*** and save.<br>
 
-Line x, in this case line 21
+
 # Keyboard shortcuts:
 
 `Exit:` ***Esc***<br>
