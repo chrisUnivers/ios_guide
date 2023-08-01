@@ -32,5 +32,6 @@ Press *Enter* or click on that option. This will open a file called ***keybindin
 `One word:` ***ctrl+arrow*** *left or right arrow*<br>
 `End of line:` ***fn+arrow*** *left or right arrow*<br>
 `To Select word(s):` ***shift+x*** Where x = [`End of line:`,`One word:`,up arrow,down arrow]<br>**NOTE:** ***Do not*** use the *UP(9,8,6): or DOWN(9,8,6):* shortcuts with `shift` when selecting upwards or downwards. ***Always*** use ***up or down arrows*** with `shift` to select vertically.
+`Next occurence:` ***ctrl+d***<br>
 `To Close:` ***ctrl+shift+[*** <br>
 `To Open:` ***ctrl+shift+]***<br>
