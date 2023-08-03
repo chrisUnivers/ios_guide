@@ -14,10 +14,9 @@ https://developer.apple.com/tutorials/sample-apps/organizingwithgrids
 # Correction
 When I make spelling mistakes I don't count those as mistakes since if you were using the editor for ios(xcode) you would catch those mistakes.
 
-**Please read before watching video below**
-
 # Up And Down shortcuts: 
-***The following steps will help you set up keyboard shortcuts for going up and down a file :***<br>
+***The following steps will help you set up keyboard shortcuts for going up and down a file.
+Watch the begin of this video(currently working on it) to see what the file will looks like and then read the stuff below on how to set up that file. :***<br>
 Inside vscode with any file open press: 
     ***ctrl+shift+p***<br>
 Inside the "search bar" that opens type:<br>
