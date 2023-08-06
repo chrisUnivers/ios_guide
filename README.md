@@ -15,7 +15,7 @@ https://developer.apple.com/tutorials/sample-apps/organizingwithgrids
 When I make spelling mistakes I don't count those as mistakes since if you were using the editor for ios(xcode) you would catch those mistakes.
 
 # Update:
-I recommend adding the "code" in the file update.swift to your SymbolGrid.swift file just below the ScrollView with LazyVGrid->done right block. That's where you can put all of the "attributes" used on the ScrollView with LazyVGrid block.
+I recommend adding the "code" in the file update.swift to your SymbolGrid.swift file just below the ScrollView with LazyVGrid->done right block. That's where you can put all of the "attributes", "" because I'm not sure if they're called attributes, used on the ScrollView with LazyVGrid block.
 
 # Up And Down shortcuts: 
 ***The following steps will help you set up keyboard shortcuts for going up and down a file.
