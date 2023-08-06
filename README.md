@@ -16,17 +16,8 @@ https://developer.apple.com/tutorials/sample-apps/organizingwithgrids
 When I make spelling mistakes I don't count those as mistakes since if you were using the editor for ios(xcode) you would catch those mistakes.
 
 # Update:
-I recommend adding the following: <br>
-/*ScrollView attribute(Sec 5: sX*/ <br>
-    {<br>
-        .navigationTitle("My Symbols")<br>
-        .navigationBarTitleDisplayMode(.inline)<br>
-        .sheet(isPresented: $isAddingSymbol, onDismiss: addSymbol) {<br>
-            SymbolPicker(symbol: $selectedSymbol)<br>
-        }<br>
-    }<br>
-    /*ScrollView attributes->done right[]*/<br>
-to the SymbolGrid.swift file just below the /*ScrollView with LazyVGrid->done right[]  block.
+I recommend adding the "code" in the file update.swift to your SymbolGrid.swift file just below the ScrollView with LazyVGrid->done right block.
+
 # Up And Down shortcuts: 
 ***The following steps will help you set up keyboard shortcuts for going up and down a file.
 Watch the begin of this video(https://youtu.be/Pp_fTnL0gRw) to see what the file will looks like and then read the stuff below on how to set up that file. :***<br>
