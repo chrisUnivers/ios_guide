@@ -41,5 +41,5 @@ Press *Enter* or click on that option. This will open a file called ***keybindin
 `Next occurence:` ***ctrl+d***<br>
 `To Close:` ***ctrl+shift+\[*** <br>
 `To Open:` ***ctrl+shift+\]***<br>
-`To switch windows:` ***alt+tab*** 
-> I almost never, rarely, use the mouse to change from window to window. I instead use the "alt+tab" keyboard shortcut. While holding "alt+tab" you can also use the arrow keys or while still holding alt press "tab" to go to the next window.
+`To switch windows:` ***alt+tab*** See ***NOTE*** below. 
+> I almost never, rarely, use the mouse to change from window to window. I instead use the "alt+tab" keyboard shortcut. After pressing "alt+tab" and while still only holding "alt", you can also use the arrow keys or press "tab" to go to the next window.
