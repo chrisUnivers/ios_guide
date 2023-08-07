@@ -9,7 +9,8 @@ In this video everything I type is completely from memory. The only thing I read
 https://developer.apple.com/tutorials/sample-apps/editinggrids
 
 **The second link is mentioned in the[Practice mode](#practice-mode) header:**
-https://developer.apple.com/tutorials/sample-apps/organizingwithgrids
+https://developer.apple.com/tutorials/sample-apps/organizingwithgrids <br>
+> Hello.
 
 # Correction
 When I make spelling mistakes I don't count those as mistakes since if you were using the editor for ios(xcode) you would catch those mistakes.
