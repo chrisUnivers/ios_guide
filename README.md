@@ -42,4 +42,4 @@ Press *Enter* or click on that option. This will open a file called ***keybindin
 `To Close:` ***ctrl+shift+\[*** <br>
 `To Open:` ***ctrl+shift+\]***<br>
 `To switch windows:` ***alt+tab*** 
-> I almost never, rarely, use the mouse to change from window to window. I use alt+tab keyboard shortcut. Once you hold alt+tab you can also use the arrow keys or while still holding alt press "tab" to go to the next window.
+> I almost never, rarely, use the mouse to change from window to window. I instead use the "alt+tab" keyboard shortcut. While holding "alt+tab" you can also use the arrow keys or while still holding alt press "tab" to go to the next window.
