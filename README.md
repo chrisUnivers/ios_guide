@@ -39,5 +39,7 @@ Press *Enter* or click on that option. This will open a file called ***keybindin
 `End of line:` ***fn+arrow*** *left or right arrow*<br>
 `To Select word(s):` ***shift+x*** Where x = [`End of line:`,`One word:`,up arrow,down arrow]<br>**NOTE:** ***Do not*** use the *UP(9,8,6): or DOWN(9,8,6):* shortcuts with `shift` when selecting upwards or downwards. ***Always*** use ***up or down arrows*** with `shift` to select vertically.<br>
 `Next occurence:` ***ctrl+d***<br>
-`To Close:` ***ctrl+shift+[*** <br>
-`To Open:` ***ctrl+shift+]***<br>
+`To Close:` ***ctrl+shift+\[*** <br>
+`To Open:` ***ctrl+shift+\]***<br>
+`To switch windows:` ***alt+tab*** 
+> I almost never, rarely, use the mouse to change from window to window. I use alt+tab keyboard shortcut. Once you hold alt+tab you can also use the arrow keys or while still holding alt press "tab" to go to the next window.
