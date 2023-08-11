@@ -47,10 +47,10 @@ Press *Enter* or click on that option. This will open a file called ***keybindin
 
 # Navigation put together
 **This \{...} is a code "block"**<br>
-**Going up** ***IMPORTANT: starting from the end of a "block", so where this "}" is, and assuming content of a the block, "\{}" are hidden***<br>
+**Going up:** ***IMPORTANT: starting from the end of a "block", so where this "}" is, and assuming content of a the block, "\{}" are hidden***<br>
 * Up arrow: takes you to start of block, "\{".
 * ctrl+shift+9: This will take you to the end of the next code "block" i.e next "}".<br>
 
-**Going down** ***starting from the start of a "block", so where this "\{" is, and assuming content of a the block, "\{}" are hidden***<br>
+**Going down:** ***starting from the start of a "block", so where this "\{" is, and assuming content of a the block, "\{}" are hidden***<br>
 * Down arrow: takes you to the end of the block, "}"<br>
 * ctrl+9: This will take you the the start of the next code "block".
