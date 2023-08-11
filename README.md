@@ -17,7 +17,8 @@ When I make spelling mistakes I don't count those as mistakes since if you were 
 
 # Update:
 * I recommend adding the "code" in the file update.swift to your SymbolGrid.swift file just below the ScrollView with LazyVGrid->done right block. That's where you can put all of the "attributes", "" because I'm not sure if they're called attributes, used on the ScrollView with LazyVGrid block.<br>
-* When it comes to using variable and structs that have not been created in a step, I think it's best to make a decision that makes sense. For example in step 4 of section 5 I explicitily write the variable "selectedSymbol" and call the struct "SymbolPicker" even though no prior steps show how the variable and the struct are define.
+* When it comes to using variable and structs that have not been created in a step, I think it's best to make a decision that makes sense. For example in step 4 of section 5 I explicitily write the variable "selectedSymbol" and call the struct "SymbolPicker" even though no prior steps show how the variable and the struct are define. <br>
+* New Section: [Navigation put together](#navigation-put-together)
 
 # Up And Down shortcuts: 
 ***The following steps will help you set up keyboard shortcuts for going up and down a file.
@@ -44,7 +45,8 @@ Press *Enter* or click on that option. This will open a file called ***keybindin
 `To switch windows:` ***alt+tab*** See ***NOTE*** below. 
 > I almost never, rarely, use the mouse to change from window to window. I instead use the "alt+tab" keyboard shortcut. After pressing "alt+tab" and while still only holding "alt", you can also use the arrow keys or press "tab" to go to the next window.
 
-# Navigation put together: This \{...} is a code "block"
+# Navigation put together
+**This \{...} is a code "block"**<br>
 **Going up** ***IMPORTANT: starting from the end of a "block", so where this "}" is, and assuming content of a the block, "\{}" are hidden***
 >Up arrow: takes you to start of block, "\{". <br>
 >ctrl+shift+9: This will take you to the end of the next code "block" i.e next "}".<br>
