@@ -43,3 +43,11 @@ Press *Enter* or click on that option. This will open a file called ***keybindin
 `To Open:` ***ctrl+shift+\]***<br>
 `To switch windows:` ***alt+tab*** See ***NOTE*** below. 
 > I almost never, rarely, use the mouse to change from window to window. I instead use the "alt+tab" keyboard shortcut. After pressing "alt+tab" and while still only holding "alt", you can also use the arrow keys or press "tab" to go to the next window.
+
+# Navigation put together: This \{...} is a code "block"
+**Going up** ***IMPORTANT: starting from the end of a "block", so where this "}" is, and assuming content of a the block, "\{}" are hidden***
+>Up arrow: takes you to start of block, "\{". <br>
+>ctrl+shift+9: This will take you to the end of the next code "block" i.e next "}".<br>
+**Going down** ***starting from the start of a "block", so where this "\{" is, and assuming content of a the block, "\{}" are hidden***<br>
+>Down arrow: takes you to the end of the block, "}"<br>
+>ctrl+9: This will take you the the start of the next code "block".
