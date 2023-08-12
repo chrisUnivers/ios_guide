@@ -29,6 +29,8 @@ Inside the "search bar" that opens type:<br>
     ***keyboard shortcuts json***<br>
 Press *Enter* or click on that option. This will open a file called ***keybindings.json***. Copy the content of the file ***upAndDown.txt***,found in this repository, paste in ***keybindings.json*** and save.<br>
 
+# Notes
+* The if state used in the VStack found in section 5 of this tutorial: https://developer.apple.com/tutorials/sample-apps/editinggrids is not explicitly. I addressed this by simply going through the code and figuring out what's going on. It is best to do that after you've gone through all the sections of the tutorial in found on that link.
 
 # Keyboard shortcuts:
 
