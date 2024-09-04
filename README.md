@@ -36,7 +36,7 @@ Press *Enter* or click on that option. This will open a file called ***keybindin
 
 `Exit:` ***Esc***<br>
 `Change current file:` ***ctrl+p***<br>
-`Navigate working-files:` ***ctrl+alt***<br>
+`Navigate working-files:` ***ctrl+tab***<br>
 `UP(9,8,7):` ***ctrl+shift+9***<br>
 `Down(9,8,7):` ***ctrl+7***<br>
 `One word:` ***ctrl+arrow*** *left or right arrow*<br>
